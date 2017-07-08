@@ -1,0 +1,18 @@
+h2 {
+	background: red;
+	width: 100px;
+}
+p.blue{
+	background: #2b3da5;
+	width: 200px;
+	height: 60px;
+}
+p.yel{
+	background: yellow;
+	width: 200px;
+	height: 40px;
+}
+a {
+	display: inline-block; 
+	padding: 0 20px
+}

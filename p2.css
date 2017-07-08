@@ -1,0 +1,19 @@
+p.one {
+	background: red;
+	width: 60px;
+	height: 40px;
+}
+p.two{
+	background: orange;
+	width: 120px;
+	height: 40px;
+}
+p.three{
+	background: blue;
+	width: 180px;
+	height: 40px;
+}
+a {
+	display: inline-block; 
+	padding: 0 20px
+}

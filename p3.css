@@ -1,0 +1,14 @@
+
+a {
+	display: inline-block; 
+	padding: 0 20px
+}
+
+p{
+	background: #ff733a;
+	font-size: 50px;
+	width: 300px;
+	height: 120px;
+	display: table-cell;
+	vertical-align: middle;
+}

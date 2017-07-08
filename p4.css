@@ -1,0 +1,25 @@
+
+
+div{
+	background: #d6d7be;
+	width: 500px;
+}
+h1{
+	color: #532601;
+}
+h3.name{
+	color: #875327;
+}
+a.sample{
+color: black;
+text-decoration: none;
+}
+span{
+	
+	color: #285501;
+	text-decoration: underline;
+}
+a.link {
+	display: inline-block; 
+	padding: 0 20px;
+}
