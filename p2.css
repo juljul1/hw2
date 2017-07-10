@@ -1,17 +1,32 @@
-p.one {
+*{
+	margin: 0;
+	padding: 0;
+}
+div.one {
 	background: red;
 	width: 60px;
 	height: 40px;
+	margin: 15px;	
 }
-p.two{
+div.two{
 	background: orange;
 	width: 120px;
 	height: 40px;
+	margin: 15px;
 }
-p.three{
+div.three{
 	background: blue;
 	width: 180px;
 	height: 40px;
+	margin: 15px;
+}
+hr{
+	margin: 15px;
+}
+img{
+	height: 60px;
+	width: 100px;
+	display: block;
 }
 a {
 	display: inline-block; 

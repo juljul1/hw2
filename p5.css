@@ -1,12 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
 div{
 	width: 500px;
 	height: 80px;
 	border: 2px;
 	border-style: dashed;
-
+	margin: 15px;
 }
 p{
 	margin-top: 2px;
+	margin: 15px;
 }
 sub.blue{
 	color: blue;
@@ -18,4 +23,16 @@ a.link {
 	display: inline-block; 
 	padding: 20px 20px;
 	
+	}
+h4{
+	margin: 15px;
+	padding: 5px;
+}
+hr{
+	margin: 15px;
+}
+img{
+	height: 60px;
+	width: 100px;
+	display: block;
 	}
