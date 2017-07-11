@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div.one {
+	background: red;
+	width: 60px;
+	height: 40px;
+	margin: 15px;	
+}
+div.two{
+	background: orange;
+	width: 120px;
+	height: 40px;
+	margin: 15px;
+}
+div.three{
+	background: blue;
+	width: 180px;
+	height: 40px;
+	margin: 15px;
+}
+hr{
+	margin: 15px;
+}
+img{
+	height: 60px;
+	width: 100px;
+	display: block;
+}
+a {
+	display: inline-block; 
+	padding: 0 20px
+}

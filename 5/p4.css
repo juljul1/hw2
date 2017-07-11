@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+img{
+	height: 60px;
+	width: 100px;
+	display: block;
+}
+div{
+	background: #d6d7be;
+	width: 500px;
+	margin: 5px;
+	padding: 5px;
+}
+h1{
+	color: #532601;
+	margin: 5px;
+	padding: 5px;
+}
+h2{
+	margin: 5px;
+	padding: 5px;
+}
+h3.name{
+	color: #875327;
+	margin: 5px;
+	padding: 5px;
+}
+hr{
+	margin: 5px;
+	
+}
+a.sample{
+color: black;
+text-decoration: none;
+margin: 5px;
+	padding: 5px;
+}
+span{
+	
+	color: #285501;
+	text-decoration: underline;
+}
+a.link {
+
+	display: inline-block; 
+	padding: 0 20px;
+}
